@@ -1,3 +1,5 @@
+## I copied these codes from https://github.com/numenta/NAB to try NAB.
+
 The Numenta Anomaly Benchmark (NAB) [![Build Status](https://travis-ci.org/numenta/NAB.svg?branch=master)](https://travis-ci.org/numenta/NAB) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1040335.svg)](https://doi.org/10.5281/zenodo.1040335)
 -----------------------------
 
